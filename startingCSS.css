@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(235, 231, 226);
+    font-size: 100%;
+}
+
+h1  {
+    font-size: 1.5em;
+    color: rgba(41, 16, 4, 0.747);
+    text-transform: uppercase;
+}
+
+h2{
+    font-size: 1.2em;
+    color: rgba(153, 27, 19, 0.801);
+    text-transform: uppercase;
+}
+
+p, li, span {
+    font-size: 0.95em;
+    color: rgb(24, 54, 95);
+    line-height: 2em;
+}
+
+p, li {
+    text-align: justify;
+}
+
+p {
+    text-indent: 1.5em;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+span {
+    font-style: italic;
+}
+
+#skeleton {
+
+}
